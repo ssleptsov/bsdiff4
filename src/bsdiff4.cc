@@ -13,7 +13,9 @@
 #include <node_buffer.h>
 #include <v8.h>
 #include <uv.h>
+#ifndef _WIN32
 #include <unistd.h>
+#endif
 #include <string.h>
 #include <string>
 #include <vector>
