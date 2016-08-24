@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit:WindowsTargetPlatformVersion=8.1
-Release|x64|C:\Users\marcu\src\bsdiff4\build\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit
+Release|x64|Y:\work\project-advance-frontend\app\node_modules\bsdiff4\build\|
